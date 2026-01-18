@@ -80,8 +80,8 @@ To contribute as a skilled and practical Automation and Robotics Engineer by app
 ---
 
 ## 📁 Repository Structure
-'''
-taj-project-portfolio/
+
+```taj-project-portfolio/
 │
 ├── index.html # Main portfolio website
 ├── images/ # Project images and visuals
@@ -91,9 +91,8 @@ taj-project-portfolio/
 │ ├── Picture4.jpg
 │ ├── Picture5.jpg
 │ └── Picture6.jpg
-└── README.md # Project documentation
-'''
-
+└── README.md # Project documentation 
+```
 ---
 
 ## 🚀 How to View the Portfolio
